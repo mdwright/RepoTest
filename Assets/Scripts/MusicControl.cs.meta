@@ -1,10 +1,14 @@
 fileFormatVersion: 2
 guid: 0bd5787ebc57e8c4c8781279ba8f7461
-timeCreated: 1444203009
+timeCreated: 1444203361
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Verse: {fileID: 24500003, guid: 4b1f3b643d7c4c34c97b1c3cfa7bb4e2, type: 2}
+  - Chorus: {fileID: 24562144, guid: 4b1f3b643d7c4c34c97b1c3cfa7bb4e2, type: 2}
+  - VerseSlow: {fileID: 24532880, guid: 4b1f3b643d7c4c34c97b1c3cfa7bb4e2, type: 2}
+  - ChorusSlow: {fileID: 24573844, guid: 4b1f3b643d7c4c34c97b1c3cfa7bb4e2, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
